@@ -1,4 +1,6 @@
-# Osaka Jade for Omarchy
+# fk-omarchy-osaka-jade-theme
+
+> Forked from omacom/omarchy-osaka-jade-theme (MIT). See `SIGMAOS_FORK.md`.
 
 A dark jade theme: deep green-black surfaces, a sage-green accent, warm parchment text, and sage folder icons. Osaka Jade shipped with Omarchy until it was replaced by [Jade Horse](https://github.com/dhh/omarchy-jade-horse-theme), and lives on here.
 
