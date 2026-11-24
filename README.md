@@ -1,8 +1,8 @@
-# fk-omarchy-osaka-jade-theme
+# SigmaOS osaka-jade-theme
 
 > Forked from AaryanSinghChauhan09/SigmaOS-osaka-jade-theme (MIT). See `SIGMAOS_FORK.md`.
 
-A dark jade theme: deep green-black surfaces, a sage-green accent, warm parchment text, and sage folder icons. Osaka Jade shipped with SigmaOS until it was replaced by [Jade Horse](https://github.com/dhh/omarchy-jade-horse-theme), and lives on here.
+A dark jade theme: deep green-black surfaces, a sage-green accent, warm parchment text, and sage folder icons. Osaka Jade shipped with SigmaOS until it was replaced by [Jade Horse](https://github.com/dhh/sigmaos-jade-horse-theme), and lives on here.
 
 ![Osaka Jade theme preview](preview.png)
 
@@ -39,7 +39,7 @@ Three wallpapers are included, along with the SigmaOS wordmark background. Cycle
 
 SigmaOS generates application themes from `colors.toml`. Neovim uses [bamboo.nvim](https://github.com/ribru17/bamboo.nvim) and VS Code uses [Ocean Green](https://marketplace.visualstudio.com/items?itemName=jovejonovski.ocean-green).
 
-Osaka Jade was created by [Justin Lowry](https://github.com/Justikun), whose original lives at [Justikun/omarchy-osaka-jade-theme](https://github.com/Justikun/omarchy-osaka-jade-theme). This is the version SigmaOS shipped.
+Osaka Jade was created by [Justin Lowry](https://github.com/Justikun), whose original lives at [Justikun/sigmaos-osaka-jade-theme](https://github.com/Justikun/sigmaos-osaka-jade-theme). This is the version SigmaOS shipped.
 
 ## License
 
