@@ -9,12 +9,12 @@ A dark jade theme: deep green-black surfaces, a sage-green accent, warm parchmen
 ## Install
 
 ```sh
-omarchy theme install https://github.com/AaryanSinghChauhan09/SigmaOS-osaka-jade-theme
+sigmaos theme install https://github.com/AaryanSinghChauhan09/SigmaOS-osaka-jade-theme
 ```
 
 ## Backgrounds
 
-Three wallpapers are included, along with the SigmaOS wordmark background. Cycle through them with `omarchy theme bg next`. Glowing City plays an intro when the theme is switched to.
+Three wallpapers are included, along with the SigmaOS wordmark background. Cycle through them with `sigmaos theme bg next`. Glowing City plays an intro when the theme is switched to.
 
 ### Glowing City
 
